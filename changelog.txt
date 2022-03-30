@@ -4,3 +4,8 @@ Date:29-3-2022
   Changes
     - Initial release
     - Added plutonium from Nuclear Fuel back in to the nuclear fuel reprocessing recipie.  It uses an inverse probability to tritium as a first attempt at balancing.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date:29-3-2022
+  Changes
+    - Fix thumbnail
